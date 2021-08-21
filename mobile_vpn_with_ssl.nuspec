@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>mobile_vpn_with_ssl</id>
+    <version>12.7.0.0</version>
+    <owners>WatchGuard</owners>
+    <title>Mobile_VPN_with_SSL (Install)</title>
+    <authors>WatchGuard_ECO</authors>
+    <tags>mobile_vpn_with_ssl SPACE_SEPARATED</tags>
+    <summary>__REPLACE__</summary>
+    <description>__REPLACE__MarkDown_Okay </description>
+ </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
